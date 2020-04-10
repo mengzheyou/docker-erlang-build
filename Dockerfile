@@ -16,5 +16,4 @@ RUN apk add --no-cache git \
     bsd-compat-headers \
     libc-dev \
     libstdc++ \
-    openssh \
-    vim
+    openssh
